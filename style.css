@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    flex-direction: row;
+}
+
+.header__title{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    height: 500px;
+}
+
+input, label, button, select, textarea, span  {
+    display:block;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+}
